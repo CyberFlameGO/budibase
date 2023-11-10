@@ -18,7 +18,7 @@
     "outputPath": "build"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "chalk": "^4.1.0",
     "commander": "^7.1.0",
     "docker-compose": "^0.23.6",
